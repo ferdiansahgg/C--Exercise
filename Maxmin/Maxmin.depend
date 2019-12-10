@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554817743 source:/home/ferdiansahgg/Documents/coba/Maxmin/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
